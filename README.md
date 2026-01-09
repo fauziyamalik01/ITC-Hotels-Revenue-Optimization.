@@ -31,8 +31,13 @@ Certain room categories contribute disproportionately higher revenue despite low
 This dashboard enables ITC Hotels to optimize pricing strategies, improve occupancy planning, reduce cancellations, and maximize RevPAR. By transforming raw data into actionable insights, stakeholders can make faster, smarter decisions that directly improve revenue performance and customer satisfaction.
 
 The tools and technologies used:
+
 -Power BI is used for Data Visualization.
+
 -Data Transformation like Data Cleaning, Merging, Calculated Columns etc were done in Power Query.
+
 -DAX has been utilized to create measures like Revenue, Cumulative Revenue, MoM/WoW Growth, Moving Averages, ADR, RevPAR, Occupancy Rate, Cancellation Metrics.
+
 -Analytics Techniques like Time Series Analysis, KPI Tracking, Revenue & Occupancy Analysis, Cancellation Impact Analysis, etc are used as well.
+
 -Dashboard also included interactive features like filters, slicers, drill-downs, multi-page reporting.
