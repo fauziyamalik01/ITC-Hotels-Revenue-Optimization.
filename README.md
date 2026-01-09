@@ -41,3 +41,5 @@ The tools and technologies used:
 -Analytics Techniques like Time Series Analysis, KPI Tracking, Revenue & Occupancy Analysis, Cancellation Impact Analysis, etc are used as well.
 
 -Dashboard also included interactive features like filters, slicers, drill-downs, multi-page reporting.
+
+#Snapshots of the Dashboard: https://github.com/fauziyamalik01/ITC-Hotels-Revenue-Optimization./blob/main/Snapshots%20of%20the%20dashboard.pdf
