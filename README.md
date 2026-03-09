@@ -1,45 +1,37 @@
-# ITC-Hotels-Revenue-Optimization.
+# 🏨 ITC-Hotels-Revenue-Optimization.
 
-1. Business Problem:
+# ❓ Business Problem:
+ITC Hotels has a bouquet of luxury hotels, with rooms categorized from Deluxe to suites, varied rates, and different levels of occupancies. There has been an inherent challenge of not having a unified view on the revenue performance, as well as the historical trends and insights into room bookings, occupancy, yield management and cancellations. All of this has resulted in ambiguity, with hotels not being able to gauge the revenue loss, patterns in customer demand, as well as enable management to make fact-based and timely business decisions to enhance the bottom line, as well as quality of service.
 
-ITC Hotels operates multiple luxury properties with different room categories, pricing structures, and fluctuating occupancy levels. Due to this complexity, stakeholders lack a consolidated view of revenue performance, booking behavior, occupancy utilization, and cancellations. This makes it difficult to identify revenue leakage, understand demand patterns, and take timely, data-driven actions to optimize profitability and customer experience.
+## 🥅 Goal of the Dashboard:
+Primary goal of this dashboard is to get a single interactive Power BI report giving real time information on the financial and non financial key performance indicators required to do business. This business intelligence tool will help in decision making while doing pricing, capacity planning and revenue generation and cancellation reduction. Below are the key metrics that are going to be covered in this Business Intelligence Tool. - Financial Metrics like RevPAR, Occupancy, ADR, TRevPAR, ContRevPAR etc. - Occupancy and Room Category wise Break-up - Booking and Cancellation KPIs
 
-2. Goal of the Dashboard:
+## 🔐 Key Visuals:
+Page 1: Financial Overview & Revenue Performance - Summary Provides real-time data on total revenue, cumulative revenue, MoM/WoW growth, moving averages, ADR and RevPAR in order to gain an understanding of hotel financial performance.
 
-The goal of the dashboard is to provide a single, interactive Power BI solution that delivers real-time insights into financial performance, occupancy trends, room category contribution, booking behavior, and cancellations. The dashboard is designed to support strategic decisions related to pricing, capacity planning, revenue optimization, and cancellation reduction across ITC Hotels.
+Page 2: Occupancy & Capacity Analysis Details the occupancy rate by hotel, by room category, by day type and the time trends of occupancy, which helps to determine the levels of capacity utilisation and its effect on room revenue.
 
-3. Key Visuals:
+Page 3: Room Category Performance & Booking Insights Breaks down revenue by room class, average length of stay, booking lead time and patterns that are affecting revenue and occupancy.
 
-Page 1: Financial Overview & Revenue Performance
-Displays total revenue, cumulative revenue, MoM/WoW growth, moving averages, ADR, and RevPAR to track overall financial health.
+Page 4: Cancellations & Lost Revenue Analysis Cancelations & Lost Revenue Analysis uncovers cancellation rate, lost revenue and monthly/weekly trends in cancellations by room type and period.
 
-Page 2: Occupancy & Capacity Analysis
-Shows occupancy rate by hotel, room category, day type, and time trends to evaluate capacity utilization and its impact on revenue.
+## 🔑 Key Insights Highlighted:
+Some room categories will yield the majority of the revenue due to higher rates and lower occupancy. Weekends generally have higher occupancy than weekdays. Longer lead times lower cancellation risk. Cancellations can result in a huge loss of revenue – especially during peak seasons.
 
-Page 3: Room Category Performance & Booking Insights
-Highlights revenue by room class, average length of stay, booking lead time, and booking patterns influencing revenue and occupancy.
+## 🩹 Business Impact
+Enable accurate pricing, effective occupancy planning, cancellations reduction and achieve optimal RevPAR using this comprehensive dashboard. Making data meaningful for faster and better business decisions to lead to overall revenue growth and customer satisfaction.
 
-Page 4: Cancellations & Lost Revenue Analysis
-Analyzes cancellation rate, lost revenue, MoM/WoW cancellation trends, and patterns across room categories and periods.
-
-4. Key Insights Highlighted:
-
-Certain room categories contribute disproportionately higher revenue despite lower occupancy. Weekends show higher occupancy compared to weekdays. Longer booking lead times are linked to higher cancellation risk. Cancellations result in significant revenue loss, especially during peak periods.
-
-5. Business Impact
-
-This dashboard enables ITC Hotels to optimize pricing strategies, improve occupancy planning, reduce cancellations, and maximize RevPAR. By transforming raw data into actionable insights, stakeholders can make faster, smarter decisions that directly improve revenue performance and customer satisfaction.
-
-The tools and technologies used:
-
--Power BI is used for Data Visualization.
-
--Data Transformation like Data Cleaning, Merging, Calculated Columns etc were done in Power Query.
-
--DAX has been utilized to create measures like Revenue, Cumulative Revenue, MoM/WoW Growth, Moving Averages, ADR, RevPAR, Occupancy Rate, Cancellation Metrics.
-
--Analytics Techniques like Time Series Analysis, KPI Tracking, Revenue & Occupancy Analysis, Cancellation Impact Analysis, etc are used as well.
-
--Dashboard also included interactive features like filters, slicers, drill-downs, multi-page reporting.
-
-#Snapshots of the Dashboard: https://github.com/fauziyamalik01/ITC-Hotels-Revenue-Optimization./blob/main/Snapshots%20of%20the%20dashboard.pdf
+## The tools and technologies used:
+1. Power BI is used for Data Visualization.
+2. Data Transformation like Data Cleaning, Data Merging, adding Calculated Columns etc were done in Power BI too.
+3. The author has been using DAX in the following measures:
+- Revenue
+- Cumulative Revenue
+- MoM/WoW Growth 
+- Moving Averages 
+- Average Daily Revenue (ADR)
+- Revenue Per Available Room (RevPAR)
+- Occupancy Rate
+- Cancellation Metrics
+  
+## Snapshots of the Dashboard: https://github.com/fauziyamalik01/ITC-Hotels-Revenue-Optimization./blob/main/Snapshots%20of%20the%20dashboard.pdf
