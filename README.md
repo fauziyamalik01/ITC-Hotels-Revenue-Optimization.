@@ -40,4 +40,4 @@ The tools and technologies used:-
 - Occupancy Rate
 - Cancellation Metrics & more
   
-## Snapshots of the Dashboard: https://github.com/fauziyamalik01/ITC-Hotels-Revenue-Optimization./blob/main/Snapshots%20of%20the%20dashboard.pdf
+Snapshots of the Dashboard: https://github.com/fauziyamalik01/ITC-Hotels-Revenue-Optimization./blob/main/Snapshots%20of%20the%20dashboard.pdf
